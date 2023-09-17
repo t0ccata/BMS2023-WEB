@@ -1,0 +1,33 @@
+/* body {
+    text-align: center;
+} */
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 180px 20px 100px 20px;;
+    background-image: url(./assets/images/yntkts.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: gray;
+    text-align: center;
+}
+
+.try2 {
+    padding: 10px;
+    background-color: red;
+    opacity: 0.8;
+}
+
+#description {
+    color: white;
+}
+
+.login-email {
+    padding: 10px;
+    background-color: purple;
+    opacity: 0.9;
+}
